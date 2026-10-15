@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "VELTOR Signature Leather Bifold",
+    "price": 4990,
+    "category": "Bifold",
+    "color": "Espresso",
+    "description": "A refined espresso-brown bifold wallet with a distinctive metallic-gold V emblem, detailed stitching and timeless everyday style.",
+    "image": "assets/veltor-signature-wallet.webp",
+    "material": "Leather finish"
+  }
+]
